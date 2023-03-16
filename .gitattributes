@@ -2,3 +2,4 @@
 *.js linguist-language=React 
 *.xml linguist-language=React
 *.scss linguist-language=React 
+*.babel linguist-language=React
