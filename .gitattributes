@@ -1,5 +1,4 @@
-*.yml linguist-language=React 
 *.html linguist-language=React 
 *.js linguist-language=React 
 *.xml linguist-language=React
-*.css linguist-language=React 
+*.scss linguist-language=React 
